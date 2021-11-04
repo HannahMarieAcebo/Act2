@@ -5,7 +5,7 @@
 .dashboard-card {
   position: absolute;
   top: 15px;
-  left: 15px;
+  left: 16px;
   right: 15px;
   bottom: 15px;
 }
@@ -13,7 +13,7 @@
 .more-button {
   position: absolute;
   top: 5px;
-  right: 10px;
+  right: 11px;
 }
 
 .dashboard-card-content {
