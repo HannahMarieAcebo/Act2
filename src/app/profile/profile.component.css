@@ -3,14 +3,14 @@
 }
 .mat-card {
   background-color: rgb(15, 14, 10);
-  color: rgb(216, 16, 16);
+  color: rgb(216, 17, 16);
   max-height: max-content;
 }
 .mat-card-title {
   text-align: center;
-  padding: 45px;
+  padding: 46px;
   background-color: rgb(252, 250, 233);
-  height: 370px;
+  height: 371px;
   font: 1.2em sans-serif;
 }
 span {
