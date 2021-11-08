@@ -4,20 +4,20 @@
 
 .sidenav {
   width: 200px;
-  background-color:rgb(243, 211, 28)
+  background-color:rgb(243, 243, 232)
 }
 .menu {
   background: inherit;
   height: 55px;
   font-size: x-large;
-  background-color:rgb(243, 211, 28)
+  background-color:rgb(214, 212, 200)
 }
 .mat-toolbar.mat-primary {
   position: sticky;
   top: 0;
   z-index: 1;
   height: 55px;
-  background-color:rgb(243, 211, 28)
+  background-color:rgb(214, 214, 212)
 }
 .mat-icon {
   margin: 10px;

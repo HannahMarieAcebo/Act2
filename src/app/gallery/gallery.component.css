@@ -1,5 +1,5 @@
 .mat-card {
-  background-color: rgb(243, 211, 28);
+  background-color: rgb(35, 75, 126);
 }
 .content {
   padding: 17px;
@@ -13,7 +13,7 @@ button {
 }
 button:hover {
   background-color: rgb(243, 211, 28);
-  color: rgb(243, 211, 28);
+  color: rgb(28, 175, 243);
 }
 .example-header-image {
   background-image: url(../../assets/1.jpg);
@@ -24,5 +24,5 @@ button:hover {
 }
 h2 {
   text-align: center;
-  
+  background-color: rgb(243, 211, 28);
 }
